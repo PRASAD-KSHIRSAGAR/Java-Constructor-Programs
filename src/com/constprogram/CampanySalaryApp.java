@@ -55,6 +55,7 @@ public class CampanySalaryApp {
 		cm.show();
 		cm.CalculateSal();
 		
+		
 		System.out.println("total sal "+cm.sal);
 		
 
